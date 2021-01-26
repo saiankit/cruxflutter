@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/cartProvider.dart';
+import 'package:cruxflutter/cartProvider.dart';
 import 'package:provider/provider.dart';
 
 void main() {
